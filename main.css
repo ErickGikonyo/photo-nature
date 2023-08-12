@@ -19,7 +19,7 @@ form{
     border-radius: 10px;
     border-width: 10px;
     cursor: pointer;
-color: rgb(100, 0, 8);
+    background-color: green;
 }
 button{
     cursor: pointer ;
