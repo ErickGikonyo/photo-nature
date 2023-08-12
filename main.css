@@ -1,5 +1,14 @@
-p{
-    font-weight: bold;
-    font-family: 'Lucida Sans';
-    
+tittle
+{
+    font-size: x-large;
+    font-weight: bolder;
+    color: aqua;
+    text-align: center;
+    margin: 40px;
+
+}
+#Animals{
+    height: 50px;
+    font-size: medium;
+    font-style: italic;
 }
