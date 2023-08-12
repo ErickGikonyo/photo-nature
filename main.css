@@ -3,7 +3,7 @@ tittle
     font-size: xx-large;
     font-weight: bolder;
     
-    color: rgb(18, 241, 66);
+    color: rgb(25, 13, 196);
     margin-left: 100px;
     text-align: center;
         margin: 450px;
@@ -46,6 +46,16 @@ h1{
     font-size: x-large;
     font-style: normal;
     color: brown;
+}
+h2{
+    font-size: x-large;
+    font-style: normal;
+    color: brown; 
+}
+h3{
+    font-size: x-large;
+    font-style: normal;
+    color: brown;  
 }
 #animals{
     font-size: 15px;
