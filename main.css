@@ -7,8 +7,13 @@ tittle
     margin: 100px;
 
 }
-#Animals{
+h1
+{
     height: 50px;
     font-size: medium;
     font-style: italic;
+    font-weight: 80px;
+    font-family: Courier;
+    margin-top: 20px;
+    
 }
