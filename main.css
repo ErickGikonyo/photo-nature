@@ -4,7 +4,6 @@ tittle
     font-weight: bolder;
     
     color: rgb(18, 241, 66);
-    border: 0.90px solid rgb(45, 141, 206);
     margin-left: 100px;
     text-align: center;
         margin: 450px;
@@ -15,11 +14,22 @@ tittle
 }
 form{
     border: 10px solid gray;
-    border-style: dotted;
+    border-style: double;
+    max-width: 400px;
     border-radius: 10px;
+    border-width: 10px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+button{
+    cursor: pointer ;
+    color: rgb(8, 8, 8);
+    display: inline-block;
+    border-color: blueviolet;
+    background-color: blueviolet;
 }
 body
-{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiPsZCoHkPzJ8mU3SWDpum2H2tDJU-UnegA&usqp=CAU);
+{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3QztmysZvzP8lrq8Xk1TJdqCsIftxCg2Wg&usqp=CAU);
 background-repeat: no-repeat;
 background-size: cover;
 opacity: ;
