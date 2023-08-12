@@ -2,13 +2,19 @@ tittle
 {
     font-size: xx-large;
     font-weight: bolder;
-    color: aqua;
-    border: 1px solid purple;
+    
+    color: rgb(18, 241, 66);
+    border: 1px solid rgb(45, 141, 206);
     margin-left: 100px;
+    text-align: center;
+        margin: 450px;
+        width: 50%;
+        padding: 15px;
+    
 
 }
 body
-{background-image: url(https://images.unsplash.com/photo-1473081556163-2a17de81fc97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmF0dXJlJTIwZGFya3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60);
+{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiPsZCoHkPzJ8mU3SWDpum2H2tDJU-UnegA&usqp=CAU);
 background-repeat: no-repeat;
 background-size: cover;
 opacity: ;
