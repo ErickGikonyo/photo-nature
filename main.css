@@ -8,18 +8,24 @@ tittle
     margin-left: 100px;
 
 }
+body
+#intro{
+    font-size: medium;
+    color: rgb(34, 34, 238);
+
+}
 h1
-{
+#animals{
     font-size: larger;
     font-family: 'New Roman';
     font-weight: 300px;
     font-style: oblique;
+    padding: 10px;
 
 }
-
-background
-{
-   background-image: ;
-    background-size: cover;
-    background-repeat: no-repeat;
+#wild{
+    border: 15px;
+    border-color: rgba(243, 10, 10, 0.945);
+    border-width: 6px;
 }
+
