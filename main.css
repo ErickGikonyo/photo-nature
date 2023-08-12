@@ -3,7 +3,7 @@ tittle
     font-size: xx-large;
     font-weight: bolder;
     color: aqua;
-    border: 2px solid purple;
+    border: 1px solid purple;
     margin-left: 100px;
 
 }
@@ -25,9 +25,20 @@ h1
 
 }
 #wild{
-    border: 15px solid red;
-    border-width: 6px;
+    border: 15px solid rgb(8, 8, 8);
+    border-width: 0.45px;
+    height: 150px;
 
+}
+#eleph{
+    border: 15px solid rgb(8, 8, 8);
+ border-width:0.45px ;
+ height: 150px;
+}
+#cubs{
+    border: 15px solid rgb(8, 8, 8);
+    border-width: 0.45px;
+    height: 150px;
 }
 h2
 p{
