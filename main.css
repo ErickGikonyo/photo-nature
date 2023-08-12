@@ -121,3 +121,8 @@ p{
     border-width: 0.45px;
     height: 150px;
 }
+#lights{
+    border: 15px solid rgb(8, 8, 8);
+    border-width: 0.45px;
+    height: 150px;
+}
