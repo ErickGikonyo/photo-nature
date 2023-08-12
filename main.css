@@ -3,15 +3,15 @@ tittle
     font-size: xx-large;
     font-weight: bolder;
     color: aqua;
-    text-align: center;
-    text-decoration: dotted;
+    border: 2px solid purple;
     margin-left: 100px;
 
 }
 body
 #intro{
     font-size: medium;
-    color: rgb(34, 34, 238);
+    color: rgb(93, 93, 97);
+    font-weight: 50px;
 
 }
 h1
@@ -19,13 +19,22 @@ h1
     font-size: larger;
     font-family: 'New Roman';
     font-weight: 300px;
-    font-style: oblique;
+    font-style: normal;
     padding: 10px;
+    line-height: 6px;
 
 }
 #wild{
-    border: 15px;
-    border-color: rgba(243, 10, 10, 0.945);
+    border: 15px solid red;
     border-width: 6px;
+
+}
+h2
+p{
+    font-size: larger;
+    font-family:'Calibri';
+    font-weight: 300px;
+    font-style: normal;
+    padding: 50px,50px,20px;
 }
 
