@@ -1,19 +1,25 @@
 tittle
 {
-    font-size: x-large;
+    font-size: xx-large;
     font-weight: bolder;
     color: aqua;
     text-align: center;
-    margin: 100px;
+    text-decoration: dotted;
+    margin-left: 100px;
 
 }
 h1
 {
-    height: 50px;
-    font-size: medium;
-    font-style: italic;
-    font-weight: 80px;
-    font-family: Courier;
-    margin-top: 20px;
-    
+    font-size: larger;
+    font-family: 'New Roman';
+    font-weight: 300px;
+    font-style: oblique;
+
+}
+
+background
+{
+   background-image: ;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
